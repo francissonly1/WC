@@ -1,5 +1,5 @@
 echo "Download ngrok"
-wget https://raw.githubusercontent.com/akuhnet/w-colab/main/ngrok.sh && chmod +x ngrok.sh && ./ngrok.sh
+wget https://raw.githubusercontent.com/francissonly1/WC/main/ngrok.sh && chmod +x ngrok.sh && ./ngrok.sh
 echo "Downloading Files"
 sudo apt-get update > /dev/null 2>&1
 echo "===================================="
